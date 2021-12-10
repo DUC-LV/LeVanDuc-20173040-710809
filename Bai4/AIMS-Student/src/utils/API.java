@@ -23,7 +23,7 @@ import entity.payment.PaymentTransaction;
 /**
  * Class cung cap cac phuong thuc giup gui request len server va nhan du lieu tra ve
  * Date 07/12/2021
- * @author Vu Trong Duc - 20183894
+ * @author Duc_LV - 20173040
  * @version 1.0
  */
 public class API {
